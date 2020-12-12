@@ -1,3 +1,8 @@
+#                 PRACTICA 7                  #
+#           Elaboró: Hugo Camacho             #
+#   Procesamiento estadístico de datos con R  #
+###############################################
+
 
 library(tidyverse)
 

@@ -1,6 +1,9 @@
-################################################################################
-# #####  Practica 5
-################################################################################
+#                 PRACTICA 5                  #
+#           Elaboró: Hugo Camacho             #
+#   Procesamiento estadístico de datos con R  #
+###############################################
+
+#DEclaramos la librería
 library(plyr)
 
 #Supongamos que hemos completado el código de la sesión anterior y hemos creado una base de datos con algunos pacientes...

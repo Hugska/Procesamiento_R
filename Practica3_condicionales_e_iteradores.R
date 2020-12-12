@@ -1,5 +1,7 @@
-# Practica 3 - Condicionales e Iteradores #
-###########################################
+#                 PRACTICA 3                  #
+#           Elaboró: Hugo Camacho             #
+#   Procesamiento estadístico de datos con R  #
+###############################################
 
 # IF-ELSE
 if(4>5){

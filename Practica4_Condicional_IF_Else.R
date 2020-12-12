@@ -3,7 +3,7 @@
 #   Procesamiento estadístico de datos con R  #
 ###############################################
 
-
+#Definimos los vectores
 nombre_paciente <- c()
 edad_paciente <- c()
 sexo_paciente <- c()

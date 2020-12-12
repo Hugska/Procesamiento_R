@@ -1,6 +1,7 @@
-###################################################
-##### PRACTICA 1 - Lista de Películas
-##################################################
+#                 PRACTICA 2                  #
+#           Elaboró: Hugo Camacho             #
+#   Procesamiento estadístico de datos con R  #
+###############################################
 
 
 #nombre de 3 películas en un vector con datos tipo char

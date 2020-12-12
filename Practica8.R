@@ -1,5 +1,7 @@
-# Practica 8 -- Factores  #
-###########################
+#                 PRACTICA 8                  #
+#           Elaboró: Hugo Camacho             #
+#   Procesamiento estadístico de datos con R  #
+###############################################
 
 #Cargamos base de datos desde github 
 bikes <- read.csv("https://raw.githubusercontent.com/AllanZamb/ProcesamientoR/main/BASES/bikes.csv")
@@ -73,7 +75,7 @@ otoño <- subset(bikes, season == "Otoño")$cnt
 #cuantitativas mediante un histograma
 par(mfrow = c(2,2))
 hist(primavera, col = "#58FA82", prob = T)
-lines(density(primavera)) # Esto para que es? para dibujar la linea pero por que o  que ????
+lines(density(primavera)) 
 hist(verano, col = "#BFFF00", prob = T)
 lines(density(verano)) 
 hist(otoño, col = "#FFBF00", prob = T)

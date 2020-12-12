@@ -1,6 +1,7 @@
-################
-## PRACTICA 1 ##
-################
+#                 PRACTICA 1                  #
+#           Elaboró: Hugo Camacho             #
+#   Procesamiento estadístico de datos con R  #
+###############################################
 
 # 5 Tipos de Variables (atómicas)
 
